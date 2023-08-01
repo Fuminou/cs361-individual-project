@@ -56,3 +56,4 @@ Please follow the instructions in the "How to Programmatically REQUEST Data from
 Note: Before making any requests, ensure that the Hobby Recommendation Microservice is running and accessible through the appropriate URL.
 
 For any questions or issues related to the Hobby Recommendation Microservice, please refer to the documentation or contact the system administrator.
+![ExportServiceUML](microservice.png)
