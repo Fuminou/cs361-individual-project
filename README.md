@@ -57,5 +57,5 @@ Note: Before making any requests, ensure that the Hobby Recommendation Microserv
 
 For any questions or issues related to the Hobby Recommendation Microservice, please refer to the documentation or contact the system administrator.
 
-UML Sequence Diagram for Hobby Reccomendation Service:
+## UML Sequence Diagram for Hobby Recommendation Service:
 ![ExportServiceUML](hobbyService.png)
